@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class doublearray {
+public class doublearray { // determining whether there are any common numbers between two arrays that the user inputs
 	public static void main(String args[]) {
 		Scanner in = new Scanner(System.in);
 		System.out.println("How many terms in your first array? It will be the same in the second array.");
