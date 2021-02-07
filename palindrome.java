@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class palindrome {
+public class palindrome { // determining whether the word that the user inputs is a palindrome or not
 	public static void main(String args[]) {
 		
 		Scanner input = new Scanner(System.in);
