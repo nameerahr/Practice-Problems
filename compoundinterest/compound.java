@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class compound {
+public class compound { // determining the amount of compound interest accumulated for an investment at the end of a period of time
 	public static void main(String args[]) {
 		double amount;
 		double rate;
