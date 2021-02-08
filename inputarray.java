@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class inputarray {
+public class inputarray { // determining whether there is a sequence of "7, 8, 9" in a given array
 	public static void main(String args[]) {
 		Scanner in = new Scanner(System.in);
 		System.out.println("How many terms in your sequence?");
